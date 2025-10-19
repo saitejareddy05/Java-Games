@@ -95,7 +95,7 @@ Want to expand the game? Try adding:
 ## 👨‍💻 Author
 
 **Saiteja Reddy Kasireddy**
-📧 [Your Email]
+📧 kasireddysaitejareddy@gmail.com
 🌐 [GitHub Profile](https://github.com/saitejareddy05)
 
 ---
