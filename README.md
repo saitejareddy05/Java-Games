@@ -1,3 +1,3 @@
 # Java-Games
-tic-tac-toe
-memmory game
+tic-tac-toe 
+memory game
